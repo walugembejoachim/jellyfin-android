@@ -1,1 +1,1 @@
-Mobile client para sa Jellyfin, ang libreng software media system
+Mobile client para sa katandika butandisi, ang libreng software media system

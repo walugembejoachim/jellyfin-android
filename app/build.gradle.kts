@@ -28,7 +28,7 @@ kotlin {
 }
 
 android {
-    namespace = "org.jellyfin.mobile"
+    namespace = "org.katandika.butandisi"
     compileSdk = 36
 
     defaultConfig {
@@ -108,7 +108,7 @@ android {
     }
 }
 
-base.archivesName.set("jellyfin-android-v${project.getVersionName()}")
+base.archivesName.set("katandika-butandisi-android-v${project.getVersionName()}")
 
 dependencies {
     val proprietaryImplementation by configurations
