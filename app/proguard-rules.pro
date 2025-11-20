@@ -5,7 +5,7 @@
 # For more details, see
 #   http://developer.android.com/guide/developing/tools/proguard.html
 
-# Keep names of all Jellyfin classes
+# Keep names of all katandika butandisi classes
 -keepnames class org.katandika.butandisi.**.* { *; }
 -keepnames interface org.katandika.butandisi.**.* { *; }
 
